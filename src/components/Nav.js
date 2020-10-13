@@ -9,6 +9,7 @@ function Nav(){
             <ul>
                 <Link to="/home"><li> home </li></Link>
                 <Link to="/user"><li> user </li></Link>
+                <Link to="/card"><li> Card </li></Link>
             </ul>
         </nav>
     )
