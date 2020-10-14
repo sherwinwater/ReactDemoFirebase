@@ -2,7 +2,7 @@ import Axios from 'axios';
 import React from 'react';
 import axios from 'axios';
 
-class UserComponent extends React.Component {
+class User extends React.Component {
 
     constructor(props) {
         super(props)
@@ -126,4 +126,4 @@ class UserComponent extends React.Component {
     }
 
 }
-export default UserComponent
+export default User
